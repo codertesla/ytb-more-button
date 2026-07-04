@@ -1,5 +1,12 @@
 # YouTube 自动展开帖子与评论
 
+[![安装脚本](https://img.shields.io/badge/安装脚本-Greasy%20Fork-red.svg?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/scripts/585509)
+[![Greasy Fork Version](https://img.shields.io/greasyfork/v/585509?style=for-the-badge&label=版本)](https://greasyfork.org/scripts/585509)
+[![Greasy Fork Installs](https://img.shields.io/greasyfork/dt/585509?style=for-the-badge&label=总安装量)](https://greasyfork.org/scripts/585509)
+[![Greasy Fork Rating](https://img.shields.io/greasyfork/rating-count/585509?style=for-the-badge&label=评分数)](https://greasyfork.org/scripts/585509/feedback)
+[![GitHub](https://img.shields.io/badge/GitHub-源码-blue.svg?style=for-the-badge&logo=github)](https://github.com/codertesla/ytb-more-button)
+[![License](https://img.shields.io/github/license/codertesla/ytb-more-button?style=for-the-badge&label=License)](LICENSE)
+
 自动点击 YouTube 帖子和评论区里的“了解详情 / Read more / Show more”按钮，直接显示完整内容。
 
 ## 功能
@@ -14,8 +21,8 @@
 1. 安装脚本管理器：
    - [Tampermonkey](https://www.tampermonkey.net/)
    - [Violentmonkey](https://violentmonkey.github.io/)
-2. 打开 [`youtube-auto-expand.user.js`](./youtube-auto-expand.user.js)。
-3. 复制或导入到脚本管理器后刷新 YouTube 页面。
+2. 打开 [Greasy Fork 安装页](https://greasyfork.org/scripts/585509)。
+3. 点击安装后刷新 YouTube 页面。
 
 ## 适配范围
 
