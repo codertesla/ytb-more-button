@@ -2,7 +2,7 @@
 // @name         YouTube 自动展开了解详情
 // @name:zh-CN   YouTube 自动展开帖子与评论
 // @namespace    https://github.com/codertesla/ytb-more-button
-// @version      1.0.0
+// @version      1.0.1
 // @description  自动点击 YouTube 帖子和评论区中的“了解详情 / Read more / Show more”按钮，直接显示完整内容。
 // @author       codertesla
 // @license      MIT

@@ -24,6 +24,13 @@
 2. 打开 [Greasy Fork 安装页](https://greasyfork.org/scripts/585509)。
 3. 点击安装后刷新 YouTube 页面。
 
+## 相关 YouTube 脚本
+
+| 脚本 | 说明 | 安装 |
+| --- | --- | --- |
+| YouTube 自动展开帖子与评论 | 自动展开 YouTube 帖子和评论区里的“了解详情 / Read more / Show more”。 | [Greasy Fork](https://greasyfork.org/scripts/585509) |
+| YouTube 播放速度增强 | 解锁 YouTube 2.0x 倍速上限，并保存一个全局默认播放速度。 | [Greasy Fork](https://greasyfork.org/scripts/585659) |
+
 ## 适配范围
 
 - `https://www.youtube.com/*`
